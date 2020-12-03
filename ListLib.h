@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+/* Creat conflict in remote */
 struct NODE{
 	int data;
 	struct NODE* next;
